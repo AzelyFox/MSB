@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d80abaa38c6a8ba43a63ce18cdf09b22
+timeCreated: 1484677135
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - weaponPrefabSword: {fileID: 1000014243672570, guid: 9e2e09da79445c1448df579eaddf01b2,
+      type: 2}
+  - weaponPrefabDagger: {fileID: 1000013233316746, guid: 092ddc12ca325104ea90c41e04f6265b,
+      type: 2}
+  - weaponPrefabShoot: {fileID: 1000012500145838, guid: b8bc1db7e455c8941ba1d33830d39bca,
+      type: 2}
+  - bulletPrefab: {fileID: 1000013498234610, guid: 314b894181ed5904980d0cc268249949,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
